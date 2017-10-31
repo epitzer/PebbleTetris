@@ -1,0 +1,24 @@
+{
+    "author": "erik.pitzer@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tetris",
+    "pebble": {
+        "displayName": "tetris",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "36bf4890-5986-4efb-a44f-a5c6957f084a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
